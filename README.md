@@ -108,7 +108,7 @@ Core Functions:
        * Finds and returns a satisfying assignment for the CNF if one exists
 ```
 
-Helper Functions:
+Helper Function:
 
 ```bash
        * lookupVar: Retrieves the value of a variable in the current assignment
