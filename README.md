@@ -38,7 +38,7 @@ This project implements a Conjunctive Normal Form (CNF) satisfiability solver in
 
 ##### Input Format:
 
-The input is a list of strings representing a Boolean formula in CNF.
+The input is a list of strings representing a Boolean formula in CNF
 
 - Tokens include:
        * Logical operators: ```bash AND ```, ```bash OR ```, ```bash NOT ```
