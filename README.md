@@ -43,10 +43,10 @@ The input is a list of strings representing a Boolean formula in CNF
 - Tokens include:
 
 ```bash
-       * Logical operators: ```bash AND ```, ```bash OR ```, ```bash NOT ```
-       * Parentheses: ```bash ( ```, ```bash ) ```
-       * Variables: single-letter strings (e.g.: ```bash a ```, ```bash b ```, ```bash c ```)
-       * Boolean literals: ```bash TRUE ```, ```bash FALSE ```
+       * Logical operators: AND, OR, NOT
+       * Parentheses: (, )
+       * Variables: single-letter strings (e.g., a, b, c)
+       * Boolean literals: TRUE, FALSE
 ```
 
   
