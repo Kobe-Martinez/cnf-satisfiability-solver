@@ -2,8 +2,14 @@
 
 ## Overview
 
+This project is a SAT Solver for Boolean CNF Expressions, implemented in OCaml. It parses a given Boolean formula in Conjunctive Normal Form (CNF), generates all possible variable assignments, and determines whether the formula is satisfiable. The solver provides a satisfying assignment if one exists, or reports unsatisfiability otherwise.
 
-This project implements a Conjunctive Normal Form (CNF) satisfiability solver in OCaml. It parses a given Boolean formula in CNF, generates truth assignments for the variables, and determines if there is a satisfying assignment. 
+Key features include:
+
+Parsing and tokenizing CNF formulas.
+Evaluating logical expressions based on variable assignments.
+Generating all possible variable combinations using an efficient backtracking algorithm.
+This tool is ideal for exploring SAT-solving techniques and understanding the fundamentals of Boolean logic evaluation.
 
 
 ## Table of Contents
