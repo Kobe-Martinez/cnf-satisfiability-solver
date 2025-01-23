@@ -1,6 +1,5 @@
 # CNF Satisfiability Solver
 
-## Overview
 
 This project is a SAT Solver for Boolean CNF Expressions, implemented in OCaml. It parses a given Boolean formula in Conjunctive Normal Form (CNF), generates all possible variable assignments, and determines whether the formula is satisfiable. The solver provides a satisfying assignment if one exists, or reports unsatisfiability otherwise.
 
