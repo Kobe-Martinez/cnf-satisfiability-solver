@@ -86,6 +86,7 @@ Core Functions:
 1. partition:
 
        * Partitions the input based on a specified delimiter
+
        * Useful for grouping tokens into meaningful components
 
 2. buildCNF:
